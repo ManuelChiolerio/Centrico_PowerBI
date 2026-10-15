@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="96" height="28" viewBox="0 0 96 28">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="96" height="28"
+     viewBox="0 0 96 28"
+     preserveAspectRatio="xMidYMid meet">
   <rect x="1" y="1" width="94" height="26" rx="13"
         fill="none"
         stroke="#00FF66"
